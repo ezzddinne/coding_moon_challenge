@@ -1,0 +1,9 @@
+basePath: /api
+host: localhost:1323
+info:
+  contact: {}
+  description: CMC Backend Services API'S in GO using Gin Framework
+  title: CMC Service API
+  version: "1.0"
+paths: {}
+swagger: "2.0"

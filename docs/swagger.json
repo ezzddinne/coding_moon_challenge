@@ -1,0 +1,12 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "CMC Backend Services API'S in GO using Gin Framework",
+        "title": "CMC Service API",
+        "contact": {},
+        "version": "1.0"
+    },
+    "host": "localhost:1323",
+    "basePath": "/api",
+    "paths": {}
+}
